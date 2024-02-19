@@ -2,7 +2,7 @@
 CODECLAUSE INTERNSHIP offers a differnet courses. Got the chance for 1 month intern of Python development. Here I have Completed Total 3 task allocated projects- Project1,Project2,Goledn Project.
 ## Task-1: Basic Calculator in Python
 ### Description
-The Calculator Performs more than basic arithmetic operations,such as Addition,Subtraction,Multiplication,Division,Squareroot,Fraction.
+The Calculator Performs more than basic arithmetic operations,such as Addition,Subtraction,Multiplication,Division,Squareroot,Fraction etc.
 ### Features of the Calculator
 It has the following features:
 1.Good graphical user interface built with Python Tkinter, nicely colored with mouse hover effects on button.
@@ -27,5 +27,6 @@ The code is efficient and scalable, making it a good fit for a production enviro
 pip install pyshorteners
 
 ## Golden Task-Chat Application
-Chat Application 
-
+### Description
+A chatbot application is a software program designed to interact with users in a natural language conversation, either through text or speech.It is a simple project which contain about codeclause chatbot application and It helps about information about CodeClause.chatbot is a computer program that's designed to simulate human conversation. Users communicate with these tools using a chat interface,just like they would converse with another person. Chatbots interpret the words given to them by a person and provide a pre-set answer about CodeClause.
+->This is a simple python chat bot. It will replay Questions based on predefine Questions and Answers.
