@@ -7,14 +7,18 @@ The Calculator Performs more than basic arithmetic operations,such as Addition,S
 It has the following features:
 1.Good graphical user interface built with Python Tkinter, nicely colored with mouse hover effects on button.
 2.Other arithmetic operations, such as
+
 -> x squared
 
 -> inputing negative values (-x)
 
 -> calculating decimal values
+
 3.Displays zero by default and controls inputs and outputs. 
+
 4.It stores the latest answer, enabling the user to refer to it for further calculations
-'clear' and 'backspace' buttons and more
+'clear' and 'backspace' buttons.
+
 5.Accepts and control keyboard inputs:
 Receives only 0-9 and the available mathematical symbols or signs from the keyboard; Esc works like clear, Backspace works like ←, '/' inputs ÷ on the screen.
 
