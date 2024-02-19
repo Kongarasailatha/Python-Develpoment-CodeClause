@@ -38,3 +38,15 @@ pip install pyshorteners
 A chatbot application is a software program designed to interact with users in a natural language conversation, either through text or speech.It is a simple project which contain about codeclause chatbot application and It helps about information about CodeClause.chatbot is a computer program that's designed to simulate human conversation. Users communicate with these tools using a chat interface,just like they would converse with another person. Chatbots interpret the words given to them by a person and provide a pre-set answer about CodeClause.
 
 ->This is a simple python chat bot. It will replay Questions based on predefine Questions and Answers.
+
+
+
+
+# Task-1 ScreenShot
+![Basic Calculator](https://github.com/Kongarasailatha/Python-Develpoment-CodeClause/assets/140708197/25fd792c-0922-46e9-92d0-88881b1ee7bb)
+# Task-2 URL Shortener Screenshot
+![URL Shortener](https://github.com/Kongarasailatha/Python-Develpoment-CodeClause/assets/140708197/d90163e0-9d4b-4d3e-9642-42bf475e1428)
+# Golden project Chat Application Screenshot
+![Chat Application](https://github.com/Kongarasailatha/Python-Develpoment-CodeClause/assets/140708197/c0fbd466-a3f5-426f-8215-2d40ddb7d34b)
+
+
