@@ -6,6 +6,7 @@ The Calculator Performs more than basic arithmetic operations,such as Addition,S
 ### Features of the Calculator
 It has the following features:
 1.Good graphical user interface built with Python Tkinter, nicely colored with mouse hover effects on button.
+
 2.Other arithmetic operations, such as
 
 -> x squared
